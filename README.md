@@ -17,6 +17,3 @@ This repository is designed as a benchmark environment for testing GitHub workfl
 - `src/main.txt`: Source file to be modified.
 - `tests/test_main.py`: Test file to validate changes.
 - `.github/workflows/ci.yml`: CI configuration.
-
-
-// p-e from bee.Zae: cheat attempt
